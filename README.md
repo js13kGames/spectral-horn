@@ -13,7 +13,7 @@
 
 In 1666, Sir Isaac Newton stuck a glass prism into a sunbeam and discovered that white light is secretly a chaotic party of rainbow colors combined. 
 
-Naturally, we asked the only logical follow-up question of modern science: **What if that prism was attached to the forehead of a celestial unicorn, and you had to solve wicked optical puzzles across 17 handcrafted levels?**
+Naturally, we asked the only logical follow-up question of modern science: **What if, instead of a prism, we used a unicorn horn?**
 
 **Spectral Horn** is a 2D optical physics puzzle game handcrafted for the **[js13kGames](https://js13kgames.com/)** competition. No bloated game engines, zero megabytes of textures, zero pre-recorded audio files, and strictly zero pre-rendered fakery. Every single ray of light—from Cauchy wavelength dispersion to Total Internal Reflection (TIR), Dove prism inversions, and spherical lens focusing—is computed analytically in real time on your CPU and rendered with the pure HTML5 Canvas 2D API.
 
