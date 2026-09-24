@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - simulation
 directors_cut: https://horn.paulu.cz/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
